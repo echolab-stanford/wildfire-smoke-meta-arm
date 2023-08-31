@@ -18,7 +18,7 @@ Scripts and data are primarily contained in this respository.
 - **0_Meta_WF_ED.R**: reads in respiratory- and cardiovascular-related ED visit effect estimates from included studies and conducts meta-analysis
 - **0_Meta_WF_Hosp.R**: reads in respiratory- and cardiovascular-related hospitalizations visit effect estimates from included studies and conducts meta-analysis
 - **1_Meta_WF_Figure.R**: runs 0_ scripts, processes data frames for each outcome, and makes figures.
-- **2_WF_Figure.R**: runs script to produce Figure 2. 
+- **2_WF_Figure2.R**: runs script to produce Figure 2. 
 
 ## List of datasets
 
