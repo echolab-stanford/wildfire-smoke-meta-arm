@@ -1,0 +1,42 @@
+Study,Region,Outcome
+Chen 2021,Global,All-cause mortality
+Doubleday 2020,"Washington State, USA",All-cause mortality
+Jegasothy 2023,"Sydney, Australia",All-cause mortality
+Kollanus 2016,"Helsinki, Finland",All-cause mortality
+Ye 2022,Brazil,All-cause mortality
+Zu 2016,"New York City and Boston, USA",All-cause mortality
+Martenies 2023,"Colorado, USA",All-cause mortality
+Hanninen 2009,Finland,All-cause mortality
+Pooled,NA,All-cause mortality
+Johnston 2014,"Sydney, Australia",Cardiovascular ED visits
+Reid 2016,"Northern California, USA",Cardiovascular ED visits
+Hahn 2021,"Alaska, USA",Cardiovascular ED visits
+Malig 2021,"San Francisco Bay Area, USA",Cardiovascular ED visits
+Pooled,NA,Cardiovascular ED visits
+Delfino 2009,"Southern California, USA",Cardiovascular hospitalizations
+Crabbe 2012,"Darwin, Australia",Cardiovascular hospitalizations
+Reid 2016,"Northern California, USA",Cardiovascular hospitalizations
+Gan 2017,"Washington State, USA",Cardiovascular hospitalizations
+Malig 2021,"San Francisco Bay area, USA",Cardiovascular hospitalizations
+Ye 2021,Brazil,Cardiovascular hospitalizations
+Magzamen 2021,"Colorado, USA",Cardiovascular hospitalizations
+Heaney 2022,"California, USA",Cardiovascular hospitalizations
+Jiang 2023,"Washington State, USA",Cardiovascular hospitalizations
+Pooled,NA,Cardiovascular hospitalizations
+Johnston 2014,"Sydney, Australia",Respiratory ED visits
+Hutchinson 2018,"San Diego, California",Respiratory ED visits
+Reid 2019,"San Francisco Bay area, USA",Respiratory ED visits
+Hahn 2021,Alaska,Respiratory ED visits
+Malig 2021,"San Francisco Bay area, USA",Respiratory ED visits
+Pooled,NA,Respiratory ED visits
+Delfino 2009,"Southern California, USA",Respiratory hospitalizations
+Crabbe 2012,"Darwin, Australia",Respiratory hospitalizations
+Gan 2017,"Washington State, USA",Respiratory hospitalizations
+Aguilera 2021,"Southern California, USA",Respiratory hospitalizations
+Malig 2021,"San Francisco Bay area, USA",Respiratory hospitalizations
+Ye 2021,Brazil,Respiratory hospitalizations
+Magzamen 2021,"Colorado, USA",Respiratory hospitalizations
+Heaney 2022,"California, USA",Respiratory hospitalizations
+Martin 2013,"Sydney area, Australia",Respiratory hospitalizations
+Jiang 2023,"Washington State, USA",Respiratory hospitalizations
+Pooled,NA,Respiratory hospitalizations
